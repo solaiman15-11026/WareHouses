@@ -1,0 +1,56 @@
+[
+  {
+    "id": "01",
+    "name": "Honda Vezel",
+    "price": 25100,
+    "img": "https://i.ibb.co/xJmpxKk/hy.png"
+  },
+  {
+    "id": "02",
+    "name": "BMW CAR X2",
+    "price": 132400,
+    "img": "https://i.ibb.co/Gp55Trr/b.png"
+  },
+  {
+    "id": "03",
+    "name": "TOYOTA CAR",
+    "price": 30000,
+    "img": "https://i.ibb.co/ZXv2w2t/t.png"
+  },
+  {
+    "id": "04",
+    "name": "Nissan X-Trail",
+    "price": 45000,
+    "img": "https://i.ibb.co/HpW5gKP/n.png"
+  },
+  {
+    "id": "05",
+    "name": "Lexus NX 2015",
+    "price": 78000,
+    "img": "https://i.ibb.co/wzYtw43/L.png"
+  },
+  {
+    "id": "06",
+    "name": "Adui Q7",
+    "price": 27000,
+    "img": "https://i.ibb.co/g9fM44K/a.png"
+  },
+  {
+    "id": "07",
+    "name": "Subaru Forester 2.0i-L",
+    "price": 340000,
+    "img": "https://i.ibb.co/tZCYM7t/Screenshot-233.png"
+  },
+  {
+    "id": "08",
+    "name": "Tata Nexon",
+    "price": 27000,
+    "img": "https://i.ibb.co/ZXv2w2t/t.png"
+  },
+  {
+    "id": "09",
+    "name": "Suzuki Swift",
+    "price": 3500,
+    "img": "https://i.ibb.co/FVmGPFc/su.png"
+  }
+]
