@@ -1,4 +1,4 @@
-
+import swal from 'sweetalert';
 import Item from '../Item/Item';
 import './Cart.css'
 // import { useState } from 'react';
@@ -8,7 +8,7 @@ const Cart = ({ cart }) => {
 
     const chooseHandleButton = (cart) => {
         const randomItem = cart[Math.floor(Math.random() * cart.length)]
-        //swal("Your random selected product:", randomItem.name);
+        swal("Your random selected product:", randomItem.name);
         if (randomItem) {
             return randomItem;
         }
