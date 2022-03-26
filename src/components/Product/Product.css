@@ -21,10 +21,13 @@
 .add-btn{
     width: 100%;
     border-radius: 0 0 10px 10px;
-    background-color: gray;
+    background-color: rgba(231, 38, 38, 0.822);
     display: flex;
     align-items: center;
     justify-content: center;
+}
+.rr{
+    color: rgb(255, 255, 255);
 }
 .add-btn h4{
     margin-right: 5px;
@@ -32,15 +35,4 @@
 .add-btn:hover{
     background-color: green;
     color: #FFF;
-}
-@media only screen and (max-width: 600px){
-    .product{
-        margin-left: 15px;
-    }
-    .product img{
-        width: 245px;
-        border-radius: 10px;
-        height: 245px;
-        margin: 7px;
-    }
 }

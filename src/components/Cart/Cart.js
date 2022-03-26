@@ -17,7 +17,7 @@ const Cart = ({ cart }) => {
 
     return (
         <div className='cart'>
-            <h2>Selected Item</h2>
+            <h2 className='head'>Selected Item</h2>
             {
                 cart.map(cart => <Item
                     key={cart.id}
