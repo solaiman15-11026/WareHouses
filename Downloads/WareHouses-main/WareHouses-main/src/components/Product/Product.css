@@ -1,0 +1,38 @@
+.product{
+    border: 1px solid gray;
+    border-radius: 10px;
+
+}
+.product img{
+    width: 300px;
+    border-radius: 10px;
+    height: 300px;
+    margin: 7px;
+}
+.product h3{
+    font-size: 24px;
+    line-height: 100%;
+    padding-left: 15px;
+}
+.product p{
+    font-size: 17px;
+    padding-left: 15px;
+}
+.add-btn{
+    width: 100%;
+    border-radius: 0 0 10px 10px;
+    background-color: rgba(231, 38, 38, 0.822);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.rr{
+    color: rgb(255, 255, 255);
+}
+.add-btn h4{
+    margin-right: 5px;
+}
+.add-btn:hover{
+    background-color: green;
+    color: #FFF;
+}

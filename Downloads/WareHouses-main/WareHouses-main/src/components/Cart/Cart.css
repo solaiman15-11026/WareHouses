@@ -1,0 +1,50 @@
+.cart {
+    position: sticky;
+    top: 0;
+}
+
+.cart h2 {
+    text-align: center;
+    color: white;
+}
+
+.choose-btn {
+    background-color: rgb(214, 200, 200);
+    color: rgba(9, 90, 9, 0.801);
+    font-weight: 600;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    margin-left: 40px;
+    padding: 0 5px;
+
+}
+
+.choose-btn:hover {
+    background-color: rgba(0, 128, 0, 0.795);
+    color: #FFFF;
+}
+
+.remove-button {
+    background-color: rgb(197, 185, 185);
+    color: red;
+    font-weight: 600;
+    border-radius: 10px;
+    margin-left: 50px;
+}
+
+.remove-button:hover {
+    background-color: red;
+    color: #FFFF;
+}
+
+
+
+@media only screen and (max-width: 600px) {
+    .choose-btn {
+        margin-left: 10px;
+    }
+
+    .remove-button {
+        margin-left: 10px;
+    }
+}

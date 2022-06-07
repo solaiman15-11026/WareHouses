@@ -1,0 +1,25 @@
+.header{
+    font-size: 48px;
+    text-align: center;
+    color: rgb(15, 43, 170);
+}
+.line{
+    border: 2px solid rgba(190, 6, 6, 0.904);
+    margin-top: -24px;
+}
+
+.carr{
+    color: rgb(65, 60, 60);
+}
+
+@media only screen and (max-width: 600px){
+    .product{
+        margin-left: 15px;
+    }
+    .product img{
+        width: 245px;
+        border-radius: 10px;
+        height: 245px;
+        margin: 7px;
+    }
+}
